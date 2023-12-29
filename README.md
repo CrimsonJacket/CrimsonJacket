@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+**I am a Software Engineer 👾**
+
+- 💼 Previously at: [CoinAlpha](https://coinalpha.com/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/danieltanjw/)
+- ⚡ Fun fact: Certified Scuba Diving Divemaster 🤿 🦈
+<hr/>
+
+[![Daniel's github stats](https://github-readme-stats.vercel.app/api?username=CrimsonJacket&line_height=33&theme=aura&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/CrimsonJacket)
+
 <!--
 **CrimsonJacket/CrimsonJacket** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
