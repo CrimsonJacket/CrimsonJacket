@@ -2,6 +2,7 @@
 
 **I am a Software Engineer 👾**
 
+- 🔭 I’m currently working at: [Aures Capital](https://www.linkedin.com/company/aures-capital/)
 - 💼 Previously at: [CoinAlpha](https://coinalpha.com/)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/danieltanjw/)
 - ⚡ Fun fact: Certified Scuba Diving Divemaster 🤿 🦈
